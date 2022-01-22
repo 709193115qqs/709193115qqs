@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 如果有什么需要明天做的事,最好现在就开始  👋
 
 <!--
 **709193115qqs/709193115qqs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
